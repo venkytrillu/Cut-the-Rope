@@ -1,0 +1,493 @@
+fileFormatVersion: 2
+guid: 1cec045360e4ade4a858743c3012bdf4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1299956083688673443
+    second: char_idle 1
+  - first:
+      213: -5431782430027100978
+    second: char_idle 2
+  - first:
+      213: -1394774507366473118
+    second: char_idle 3
+  - first:
+      213: -164791647197390918
+    second: char_idle 4
+  - first:
+      213: -8783020870724940725
+    second: char_idle 5
+  - first:
+      213: -7032167696554674704
+    second: char_idle 6
+  - first:
+      213: 5857904555565608440
+    second: char_idle 7
+  - first:
+      213: 7672055705132039363
+    second: char_idle 8
+  - first:
+      213: 66665988451713751
+    second: char_idle 9
+  - first:
+      213: 1017395478996835840
+    second: char_idle 10
+  - first:
+      213: 6037442555787215610
+    second: char_idle 11
+  - first:
+      213: 1864918529286903676
+    second: char_idle 12
+  - first:
+      213: 3387827757133063433
+    second: char_idle 13
+  - first:
+      213: -7960229072842795636
+    second: char_idle 14
+  - first:
+      213: -5723259174717969438
+    second: char_idle 15
+  - first:
+      213: -2475662737933238571
+    second: char_animations_hd_0
+  - first:
+      213: 473468829482360961
+    second: char_Eat 1
+  - first:
+      213: -1982367964438154758
+    second: char_Eat 2
+  - first:
+      213: -5277254691419832114
+    second: char_Eat 3
+  - first:
+      213: 4082099778544151871
+    second: char_Eat 4
+  - first:
+      213: -1287634569117686497
+    second: char_Eat 5
+  - first:
+      213: -4012246366783132969
+    second: char_Eat 6
+  - first:
+      213: 5686957532103348178
+    second: char_Eat 7
+  - first:
+      213: -5318050388830921077
+    second: char_Eat 8
+  - first:
+      213: 7117487231864874840
+    second: char_Eat 9
+  - first:
+      213: -5971942329091928653
+    second: char_Eat 10
+  - first:
+      213: 5086355952058954894
+    second: char_Eat 11
+  - first:
+      213: 33078623915161536
+    second: char_Eat 12
+  - first:
+      213: -6197435783992676503
+    second: char_Eat 13
+  - first:
+      213: 3887188063310230574
+    second: char_Eat 14
+  - first:
+      213: -1532556226215105407
+    second: char_Eat 15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: char_idle 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1916
+        width: 131
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529cc4bc0bb73d7418a40fd633465397
+      internalID: -1299956083688673443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_idle 2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1905
+        width: 128
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d62f04a550091488e312ecef36f371
+      internalID: -5431782430027100978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_idle 3
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1905
+        width: 129
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffb064be5fb9b04c832c59a92c92a29
+      internalID: -1394774507366473118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_idle 4
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1906
+        width: 129
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bd2c116a6501d47b3afa4471e39de4
+      internalID: -164791647197390918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_idle 5
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1910
+        width: 130
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae1070356ee09e4bad7513614060391
+      internalID: -8783020870724940725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_idle 6
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1914
+        width: 127
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f826f305152fae49a32be392f9d62d0
+      internalID: -7032167696554674704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_animations_hd_0
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 677
+        width: 41
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626752dc1a46f8149ad8551d0e1d00c1
+      internalID: -2475662737933238571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_Eat 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1516
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470e729454b67cd44b342386dc516be4
+      internalID: 473468829482360961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_Eat 2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1494
+        width: 132
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a289a48600b5f41a287a907f2a4c5f
+      internalID: -1982367964438154758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_Eat 3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1504
+        width: 134
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c36dde1788cc8449ad5ac5dab7525a5
+      internalID: -5277254691419832114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_Eat 4
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1506
+        width: 143
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0b1b4604860a847b71505d02201bf5
+      internalID: 4082099778544151871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_Eat 5
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1503
+        width: 128
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7fd53ab4bb8064086136fce1b27f9e
+      internalID: -1287634569117686497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_Eat 6
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1509
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce7b29ff3bed724c923709a22b64b19
+      internalID: -4012246366783132969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 21191d2e430d05f428d0c2a5fd5ed692
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
